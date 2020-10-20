@@ -732,6 +732,7 @@ propagated with or for interoperation with KNIME.
    <includes id="org.knime.features.base" version="0.0.0" />
    <includes id="org.knime.features.workbench" version="0.0.0" />
    <includes id="org.knime.features.ext.svg" version="0.0.0" />
+   <includes id="org.knime.features.js.core" version="0.0.0" />
    <includes id="org.knime.features.product" version="0.0.0" />
    <includes id="org.knime.binary.jre" version="0.0.0" />
 </feature>
